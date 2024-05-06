@@ -1,1 +1,1 @@
-This repository contains the lab solutions for ECE344
+This repository contains the labs for ECE344
